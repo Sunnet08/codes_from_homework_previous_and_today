@@ -1,0 +1,2 @@
+ERROR: ValueError: Something went wrong
+ERROR: ZeroDivisionError: Can't divide by zero
